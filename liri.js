@@ -83,7 +83,6 @@ function search() {
 
         //build the query URL for the omdb api
         var queryURL = "http://omdbapi.com/?apikey=trilogy&t=" + term;
-        console.log(queryURL);
 
         //use axios to search the omdb api
         axios.get(queryURL).then(
@@ -134,5 +133,8 @@ if (input === "do-what-it-says") {
         //it should work for any of the above commands that are written in the random.txt file
         search();
     });
+} else {
+    //runs the search function if the input is anything other than do-what-it-says
+    search();
 }
 
