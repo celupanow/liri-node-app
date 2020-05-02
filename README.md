@@ -6,8 +6,8 @@ No working link because there is no actual HTML or interactive DOM.
 ## Objectives
 
  - Use a node Spotify api package to search the Spotify API.
- - Display the first ten gifs returned by the Giphy API.
- - Allow the user to click each gif to start and stop them.
+ - Use axios to call the OMDB API and the Bands In Town API.
+ - Depending on the command entered, display information from the Bands In Town API, Spotify API, or OMDB API.
  - Allow the user to input their own search term and add the button to the page.
  - Display the rating of each gif.
  
@@ -23,5 +23,5 @@ When the page loads, it runs a function that displays several buttons that are c
  - AJAX
  - Giphy API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODUzMzc5MF19
+eyJoaXN0b3J5IjpbLTMwNTI0NDUzNSwxNDk4NTMzNzkwXX0=
 -->
