@@ -19,10 +19,13 @@ The user must put two items into the command line. The first one is a command. T
  - JavaScript
  - Node.js
  - Bands In Town API
- - S
- - AJAX
- - Giphy API
+ - Spotify API
+ - OMDB API
+ - axios
+ - moment
+ - fs
+ - node-spotify-api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODQ4NjMxOCw1MTk1Mjc4MzAsMTQ5OD
+eyJoaXN0b3J5IjpbMTA0NzA2MjUzNiw1MTk1Mjc4MzAsMTQ5OD
 UzMzc5MF19
 -->
