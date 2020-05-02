@@ -14,6 +14,10 @@ No working link because there is no actual HTML or interactive DOM.
 ## How It Works
 The user must put two items into the command line. The first one is a command. The user can put in "concert-this", which will search the Bands In Town API for venue name, venue location, and time for the next concert of whatever musical artist is searched. They can put in "spotify-this-song", which will search the Spotify API for the artist, song name, spotify link, and the album name. They can use "movie-this", which will search the OMDB API for the title, year, ratings, country, language, plot, and actors. The last command is "do-what-it-says", which reads the random.txt file and follows the command and search term to run one of the above commands. 
 
+## Demonstration Video
+
+<iframe src="https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ/preview" width="640" height="480"></iframe>
+
 ## Technologies
 
  - JavaScript
@@ -26,6 +30,6 @@ The user must put two items into the command line. The first one is a command. T
  - fs
  - node-spotify-api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzA2MjUzNiw1MTk1Mjc4MzAsMTQ5OD
-UzMzc5MF19
+eyJoaXN0b3J5IjpbMTYxOTc4NDE5MywxMDQ3MDYyNTM2LDUxOT
+UyNzgzMCwxNDk4NTMzNzkwXX0=
 -->
