@@ -41,10 +41,11 @@ To watch the demonstration video, please click the following link:
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Node.js](https://nodejs.org)
 * [Bands in Town API](https://www.artists.bandsintown.com/bandsintown-api)
-* [Spotify API]
-* [OMDB API]
-* [axios]
-* [momne
+* [Spotify API](https://developer.spotify.com/documentation/web-api/)
+* [OMDB API](http://www.omdbapi.com/)
+* [axios](https://www.npmjs.com/package/axios)
+* [moment](https://www.npmjs.com/package/moment)
+* [node-spotify-api]
 
 <!-- GETTING STARTED -->
 
@@ -167,7 +168,7 @@ Link to Video: https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ
  - fs
  - node-spotify-api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzUwMDIwMCwyNTU1NTcxOTcsLTE4Nj
-IxNzc0NTAsMTA0NzA2MjUzNiw1MTk1Mjc4MzAsMTQ5ODUzMzc5
-MF19
+eyJoaXN0b3J5IjpbMTA4Mjc0ODQyLDI1NTU1NzE5NywtMTg2Mj
+E3NzQ1MCwxMDQ3MDYyNTM2LDUxOTUyNzgzMCwxNDk4NTMzNzkw
+XX0=
 -->
