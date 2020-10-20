@@ -60,6 +60,8 @@ You will need to have the lastest version of npm installed.
 ```sh
 npm install npm@latest -g
 ```
+
+You will need a Spotify client id and client secret. You can get these here: https://developer.spotify.com/dashboard/
   
 ### Installation
 
@@ -74,8 +76,10 @@ git clone https://github.com/celupanow/liri-node-app.git
 ```sh
 npm install
 ```
-3. Create a .env file 
-4. Run the application using the command line
+3. Create a .env file with your Spotify client id and client secret
+```JS
+```
+5. Run the application using the command line
 ```sh
 node bamazonCustomer.js
 node bamazonManager.js
@@ -167,7 +171,7 @@ Link to Video: https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ
  - fs
  - node-spotify-api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTQ4Mzc2NSwyNTU1NTcxOTcsLTE4Nj
-IxNzc0NTAsMTA0NzA2MjUzNiw1MTk1Mjc4MzAsMTQ5ODUzMzc5
-MF19
+eyJoaXN0b3J5IjpbNTczMDY5MDYyLDI1NTU1NzE5NywtMTg2Mj
+E3NzQ1MCwxMDQ3MDYyNTM2LDUxOTUyNzgzMCwxNDk4NTMzNzkw
+XX0=
 -->
