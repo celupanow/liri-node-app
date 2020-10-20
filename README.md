@@ -45,7 +45,7 @@ To watch the demonstration video, please click the following link:
 * [OMDB API](http://www.omdbapi.com/)
 * [axios](https://www.npmjs.com/package/axios)
 * [moment](https://www.npmjs.com/package/moment)
-* [node-spotify-api]
+* [node-spotify-api](https://www.npmjs.com/package/node-spotify-api)
 
 <!-- GETTING STARTED -->
 
@@ -60,7 +60,6 @@ You will need to have the lastest version of npm installed.
 ```sh
 npm install npm@latest -g
 ```
-You will also need MySQL installed. There is a schema file included with the basic sample data you see in the demo video. If you are using MySQL Workbench, you should be able to run this script and create the database.
   
 ### Installation
 
@@ -75,7 +74,7 @@ git clone https://github.com/celupanow/liri-node-app.git
 ```sh
 npm install
 ```
-3. Run the MySQL schema to create the database
+3. Create a .env file 
 4. Run the application using the command line
 ```sh
 node bamazonCustomer.js
@@ -168,7 +167,7 @@ Link to Video: https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ
  - fs
  - node-spotify-api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjc0ODQyLDI1NTU1NzE5NywtMTg2Mj
-E3NzQ1MCwxMDQ3MDYyNTM2LDUxOTUyNzgzMCwxNDk4NTMzNzkw
-XX0=
+eyJoaXN0b3J5IjpbLTYwNTQ4Mzc2NSwyNTU1NTcxOTcsLTE4Nj
+IxNzc0NTAsMTA0NzA2MjUzNiw1MTk1Mjc4MzAsMTQ5ODUzMzc5
+MF19
 -->
