@@ -8,7 +8,7 @@
 This is a node app that uses the Command Line to make calls to three different APIs to display results.
 <br />
 <br />
-<a href=" https://drive.google.com/file/d/1KAnbUqia4wWURy0AiWkc-LvggEZjpoud/view">View Demo</a>
+<a href="https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ/view">View Demo</a>
 ·
 <a href="https://github.com/celupanow/liri-node-app/issues">Report Bug</a>
 ·
@@ -35,13 +35,16 @@ This is a node app that uses the Command Line to make calls to three different A
 
 ## About The Project
 To watch the demonstration video, please click the following link:
-[https://drive.google.com/file/d/1KAnbUqia4wWURy0AiWkc-LvggEZjpoud/view](https://drive.google.com/file/d/1KAnbUqia4wWURy0AiWkc-LvggEZjpoud/view)
+[https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ/view](https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ/view)
 
 ### Built With
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Node.js](https://nodejs.org)
-* [MySQL](https://www.mysql.com/)
-* [inquirer](https://www.npmjs.com/package/inquirer)
+* [Bands in Town API](https://www.artists.bandsintown.com/bandsintown-api)
+* [Spotify API]
+* [OMDB API]
+* [axios]
+* [momne
 
 <!-- GETTING STARTED -->
 
@@ -164,7 +167,7 @@ Link to Video: https://drive.google.com/file/d/1jS2IVLsA60qvgeAJhZfA1GOUyHesHkAZ
  - fs
  - node-spotify-api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTc0NDc5MiwyNTU1NTcxOTcsLTE4Nj
+eyJoaXN0b3J5IjpbMTM3MzUwMDIwMCwyNTU1NTcxOTcsLTE4Nj
 IxNzc0NTAsMTA0NzA2MjUzNiw1MTk1Mjc4MzAsMTQ5ODUzMzc5
 MF19
 -->
