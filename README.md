@@ -135,11 +135,11 @@ Project Link: [https://celupanow.github.io/liri-node-app/](https://celupanow.git
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: https://linkedin.com/in/celupanow
+[linkedin-url]: https://www.linkedin.com/in/christinalupanow
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTAyOTc5NSwyNTU1NTcxOTcsLTE4Nj
-IxNzc0NTAsMTA0NzA2MjUzNiw1MTk1Mjc4MzAsMTQ5ODUzMzc5
-MF19
+eyJoaXN0b3J5IjpbMTg5MTMxNzU5OSwxODU1MDI5Nzk1LDI1NT
+U1NzE5NywtMTg2MjE3NzQ1MCwxMDQ3MDYyNTM2LDUxOTUyNzgz
+MCwxNDk4NTMzNzkwXX0=
 -->
